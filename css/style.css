@@ -90,16 +90,56 @@ p{
 	width: 1176px;
 	margin: 0 auto;
 }
+.lower-section-padding{
+	padding-bottom: 93px;
+}
+.separate-box{
+	display: inline-block;
+	vertical-align: top;
+}
 .separate-paragraph{
 	width: 234px;
 	margin-top: 40.1px;
 }
 .airplane{
 	position: relative;
+	display: inline-block;
+	vertical-align: top;
 	width: 269px;
+	margin-left: 59.1px;
+}
+.cruise{
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	width: 269px;
+	margin-top: 21.6px;
+	margin-left: 290.1px;
+}
+.group-box{
+	display: inline-block;
+	vertical-align: top;
+	width: 269px;
+	margin-left: 31.9px;
+}
+.lower-group-box{
+	display: inline-block;
+	vertical-align: top;
+	width: 269px;
+	margin: 21.6px 0px 0px 31.9px;
 }
 .absolute-header{
 	position: absolute;
 	top: 28.4px;
 	left: 59.5px;
 }
+.header-4{
+	margin: 22.4px 0px 8.8px 0px;
+}
+.absolute-paragraph{
+	margin-top: 52.2px;
+}
+.paragraph{
+	width: 269px;
+}
+
