@@ -1,0 +1,105 @@
+h2{
+	font-family: 'Raleway';
+	font-size: 78.74px;
+	font-weight: 600;
+	color: #FFFFFF;
+	text-transform: capitalize;
+}
+h3{
+	font-family: 'Raleway';
+	font-size: 26px;
+	font-weight: 600;
+	color: #1A1A1B;
+	text-transform: capitalize;
+	padding-top: 25.6px;
+}
+h4{
+	font-family: 'Raleway';
+	font-size: 18px;
+	font-weight: 600;
+	color: #1A1A1B;
+	text-transform: uppercase;
+}
+span{
+	font-family: 'Raleway';
+	font-size: 16px;
+	font-weight: 600;
+	color: #8D8D8D;
+	text-transform: uppercase;
+	height: 19px;
+}
+p{
+	font-family: 'Raleway';
+	font-size: 16px;
+	color: #8D8D8D;
+	text-transform: capitalize;
+}
+/*Header*/
+.header{
+	padding: 25px 0px 0px 95px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 88.9px;
+}
+.list{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 49px;
+}
+.links{
+	font-size: 15.74px;
+	font-family: 'Raleway';
+	color: #303134;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+/*Banner*/
+.banner-padding{
+	padding: 25px 0px 75.8px 0px;
+	position: relative;
+}
+.banner-text{
+	position: absolute;
+	top: 294.2px;
+	left: 415.8px;
+}
+.banner{
+	width: 100%;
+}
+.banner-span{
+	font-family: 'Raleway';
+	font-size: 18px;
+	font-weight: 600;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+.span-position{
+	position: absolute;
+	top: 418.6px;
+	left: 526.8px;
+}
+/*Lower Section*/
+.lower-section{
+	height: 668px;
+	width: 1176px;
+	margin: 0 auto;
+}
+.separate-paragraph{
+	width: 234px;
+	margin-top: 40.1px;
+}
+.airplane{
+	position: relative;
+	width: 269px;
+}
+.absolute-header{
+	position: absolute;
+	top: 28.4px;
+	left: 59.5px;
+}
