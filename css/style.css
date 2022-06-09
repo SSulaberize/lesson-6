@@ -1,3 +1,6 @@
+body{
+	padding-top: 61.53px;
+}
 h2{
 	font-family: 'Raleway';
 	font-size: 78.74px;
@@ -6,24 +9,21 @@ h2{
 	text-transform: capitalize;
 }
 h3{
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	font-size: 26px;
-	font-weight: 600;
 	color: #1A1A1B;
 	text-transform: capitalize;
 	padding-top: 25.6px;
 }
 h4{
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	font-size: 18px;
-	font-weight: 600;
 	color: #1A1A1B;
 	text-transform: uppercase;
 }
 span{
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	font-size: 16px;
-	font-weight: 600;
 	color: #8D8D8D;
 	text-transform: uppercase;
 	height: 19px;
@@ -36,7 +36,13 @@ p{
 }
 /*Header*/
 .header{
-	padding: 25px 0px 0px 95px;
+	padding: 25px 0px 25px 95px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: #FFFFFF;
+	z-index: 1;
 }
 .logo{
 	display: inline-block;
@@ -61,7 +67,7 @@ p{
 }
 /*Banner*/
 .banner-padding{
-	padding: 25px 0px 75.8px 0px;
+	padding: 0px 0px 75.8px 0px;
 	position: relative;
 }
 .banner-text{
