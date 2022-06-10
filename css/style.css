@@ -2,9 +2,8 @@ body{
 	padding-top: 61.53px;
 }
 h2{
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	font-size: 78.74px;
-	font-weight: 600;
 	color: #FFFFFF;
 	text-transform: capitalize;
 }
@@ -60,9 +59,8 @@ p{
 }
 .links{
 	font-size: 15.74px;
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	color: #303134;
-	font-weight: 600;
 	text-transform: capitalize;
 }
 /*Banner*/
@@ -79,9 +77,8 @@ p{
 	width: 100%;
 }
 .banner-span{
-	font-family: 'Raleway';
+	font-family: 'Raleway-SemiBold';
 	font-size: 18px;
-	font-weight: 600;
 	color: #FFFFFF;
 	text-transform: uppercase;
 }
