@@ -6,6 +6,7 @@ h2{
 	font-size: 78.74px;
 	color: #FFFFFF;
 	text-transform: capitalize;
+	margin-bottom: 36.3px;
 }
 h3{
 	font-family: 'Raleway-SemiBold';
@@ -66,12 +67,13 @@ p{
 /*Banner*/
 .banner-padding{
 	padding: 0px 0px 75.8px 0px;
-	position: relative;
 }
 .banner-text{
 	position: absolute;
-	top: 294.2px;
-	left: 415.8px;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 .banner{
 	width: 100%;
@@ -81,11 +83,6 @@ p{
 	font-size: 18px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-}
-.span-position{
-	position: absolute;
-	top: 418.6px;
-	left: 526.8px;
 }
 /*Lower Section*/
 .lower-section{
