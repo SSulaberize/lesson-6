@@ -6,7 +6,6 @@ h2{
 	font-size: 78.74px;
 	color: #FFFFFF;
 	text-transform: capitalize;
-	margin-bottom: 36.3px;
 }
 h3{
 	font-family: 'Raleway-SemiBold';
@@ -70,7 +69,6 @@ p{
 }
 .banner-text{
 	position: absolute;
-	text-align: center;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -83,6 +81,11 @@ p{
 	font-size: 18px;
 	color: #FFFFFF;
 	text-transform: uppercase;
+}
+.banner-span-position{
+	position: absolute;
+	top: 418.58px;
+	left: 570px;
 }
 /*Lower Section*/
 .lower-section{
