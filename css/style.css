@@ -66,6 +66,7 @@ p{
 /*Banner*/
 .banner-padding{
 	padding: 0px 0px 75.8px 0px;
+	position: relative
 }
 .banner-text{
 	position: absolute;
@@ -84,8 +85,8 @@ p{
 }
 .banner-span-position{
 	position: absolute;
-	top: 418.58px;
-	left: 570px;
+	top: 455px;
+	left: 570.77px;
 }
 /*Lower Section*/
 .lower-section{
@@ -99,17 +100,23 @@ p{
 .separate-box{
 	display: inline-block;
 	vertical-align: top;
+	width: 236px;
 }
 .separate-paragraph{
 	width: 234px;
 	margin-top: 40.1px;
+}
+.right-block{
+	width: 870px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 59.1px;
 }
 .airplane{
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
 	width: 269px;
-	margin-left: 59.1px;
 }
 .cruise{
 	position: relative;
@@ -117,19 +124,18 @@ p{
 	vertical-align: top;
 	width: 269px;
 	margin-top: 53px;
-	margin-left: 290.1px;
 }
 .group-box{
 	display: inline-block;
 	vertical-align: top;
 	width: 269px;
-	margin-left: 31.9px;
+	margin-left: 31.5px;
 }
 .lower-group-box{
 	display: inline-block;
 	vertical-align: top;
 	width: 269px;
-	margin: 53px 0px 0px 31.9px;
+	margin: 53px 0px 0px 31.5px;
 }
 .absolute-header{
 	position: absolute;
