@@ -62,11 +62,16 @@ p{
 	font-family: 'Raleway-SemiBold';
 	color: #303134;
 	text-transform: capitalize;
+	
+}
+.links:hover{
+	background-color: grey;
+	padding: 5px 5px;
 }
 /*Banner*/
 .banner-padding{
 	padding: 0px 0px 75.8px 0px;
-	position: relative
+	position: relative;
 }
 .banner-text{
 	position: absolute;
