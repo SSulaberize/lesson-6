@@ -65,7 +65,8 @@ p{
 	
 }
 .links:hover{
-	background-color: grey;
+	color: #FFFFFF;
+	background-color: #808080;
 	padding: 5px 5px;
 }
 /*Banner*/
